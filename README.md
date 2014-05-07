@@ -1,7 +1,5 @@
-BlenderShortcutsUnity
-=====================
-
 Blender Shortcuts for Unity
+=====================
 
 Only works in Windows because Unity sucks.
 Once imported restart unity for the key binds to apply.
@@ -25,3 +23,4 @@ Unity hotkeys moved to fit blender ones:
 
 Default Pan is now Shift+Q instead of Q
 Pivot Rotation is now Ctrl+X instead of X
+
